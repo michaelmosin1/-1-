@@ -4,7 +4,7 @@
 int main() {
 	setlocale(LC_ALL, "Russian");
 	char x;
-	std::cout << "Ââåäèòå X:" << std::endl;
+	std::cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ X:" << std::endl;
 	std::cin >> x;
 	if (x == 1)
 	{
