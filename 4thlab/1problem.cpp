@@ -7,7 +7,7 @@ int main()
 	int a;
 	int b;
 	int c;
-	std::cout << "Ââåäèòå A, B, C:" << std::endl;
+	std::cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ A, B, C:" << std::endl;
 	std::cin >> a >> b >> c;
 	if ((a % c == 0) && (b % c == 0))
 	{
