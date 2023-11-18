@@ -1,0 +1,2 @@
+/usr/bin/ar qc libio.a CMakeFiles/io.dir/matrixio.cpp.o
+/usr/bin/ranlib libio.a

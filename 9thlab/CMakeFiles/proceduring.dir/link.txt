@@ -1,0 +1,2 @@
+/usr/bin/ar qc libproceduring.a CMakeFiles/proceduring.dir/proceduring.cpp.o
+/usr/bin/ranlib libproceduring.a

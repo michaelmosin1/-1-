@@ -1,0 +1,5 @@
+/home/mikhail/9thlab/CMakeFiles/io.dir
+/home/mikhail/9thlab/CMakeFiles/proceduring.dir
+/home/mikhail/9thlab/CMakeFiles/main.dir
+/home/mikhail/9thlab/CMakeFiles/edit_cache.dir
+/home/mikhail/9thlab/CMakeFiles/rebuild_cache.dir
