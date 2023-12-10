@@ -11,11 +11,14 @@ void quicksort(int* massive, int start, int end){
 	{
 	while ((massive[i]%10) > pivot) i++;
 	while ((massive[j]%10) < pivot) j--;
+	if (i <= j)
+	{
 	int tmp = massive[j];
 	massive[j] = massive[i];
 	massive[i] = tmp;
 	i++;
 	j--;
+	}
 	}
 	quicksort(massive, start, j);
 	quicksort(massive, i, end);
