@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 3.5)
+enable_language(CXX)
+project(9thlab)
+set(cmake_cxx_flags -std=c++17 -O2)
+add_executable(main main.cpp my_class.hpp matrixio.cpp proceduring.cpp)
